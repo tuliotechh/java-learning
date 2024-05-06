@@ -1,4 +1,4 @@
-package anatomiaDasClasses; //criando um pacote
+package testePackage; //criando um pacote
 
 public class MyClass {
     public static void main (String [] args){ //metodo!
