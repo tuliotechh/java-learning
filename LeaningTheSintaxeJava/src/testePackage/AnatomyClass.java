@@ -1,6 +1,6 @@
 package testePackage; //criando um pacote
 
-public class MyClass {
+public class AnatomyClass {
     public static void main (String [] args){ //metodo!
         //System.out.printf("Hello World");
 
