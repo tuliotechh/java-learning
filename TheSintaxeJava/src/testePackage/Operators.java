@@ -34,6 +34,11 @@ public class Operators {
 
         boolean verdadeiro = true;
 
+//      UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
+        int a = 6;
+        int b = 6;
+        String resultad = (a==b) ? "verdadeiro" : "false"; // como se fosse um if-else
+
         System.out.println("Inverteu " + !verdadeiro);
     }
 }
