@@ -11,6 +11,6 @@ public class Main {
         l[0]= new Livro("Aprendendo Java", "Jose da Silva", 300, p[0]);
         l[1]= new Livro("POO para iniciantes", "Pedro Paulo", 500, p[1]);
         l[2]= new Livro("Java Avancaçado", "Maria Candido", 800, p[0]);
-        
+
     }
 }
